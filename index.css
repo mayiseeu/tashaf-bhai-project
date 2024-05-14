@@ -1,0 +1,198 @@
+*{margin: 0;padding: 0;}
+header{
+  display: flex;
+  background-color: #ffff;
+  height: 91px;
+  width: 1512px;
+  /* border: 2px solid pink; */
+  /* align-items: center; */
+
+}
+.logo_container{
+  margin:21px  26.89px 40px ;
+  /* margin-top:21px ;
+  margin-left:40px;
+  margin-bottom:26.89px;
+  margin-right:1278px; */
+
+  /* border: 2px solid saddlebrown; */
+  
+}
+.leyton_logo{
+  width: 194px;
+height: 43.15px;
+
+
+
+}
+.nav_bar{
+ 
+
+  /* margin-top: 29px;
+  margin-top: 35px; */ 
+  /* border: 2px solid darkblue; */
+ height: 27px;
+display: flex;
+width: 679px;
+justify-content: space-between;
+margin-top: 29px;
+margin-left: 48px;
+
+}
+.nav_bar a{
+  /* //styleName: menu; */
+  color: #000;
+  text-decoration: none;
+font-family: Manrope;
+font-size: 20px;
+font-weight: 700;
+line-height: 27.32px;
+letter-spacing: 0.04em;
+text-align: left;
+padding:0px 0px 33px 0px ;
+
+/* border-bottom:95px solid #ffff; */
+
+}
+.nav_bar a:hover{
+  border-bottom:95px solid #FF792D;
+
+ 
+ border-bottom-width: 4px;
+ border-radius: 3px;
+ 
+}
+
+.action_bar{
+ 
+ 
+/* border: 2px solid rebeccapurple; */
+margin-top:20px;
+margin-right:39.74px;
+margin-bottom:23.87px;
+margin-left:305px;
+}
+
+.btn1{
+  width: 206.26px;
+  height: 47.13px;
+  top: 20px;
+  left: 1266px;
+  padding: 10.07px 20.13px 10.07px 20.13px;
+  gap: 10.07px;
+  border-radius: 50.33px;
+  opacity: 0px;
+  background-color:#57B14B ;
+  box-shadow: 0px 3px 5.2px 0px #0000003D;
+   border: none
+}
+.btn1-name{
+  font-family: Manrope;
+  color: #FFFFFF;
+  font-size: 20.13px;
+  font-weight: 700;
+  line-height: 27.5px;
+  letter-spacing: 0.04em;
+text-align: center;
+
+}
+
+/* Main section */
+.banner_container{
+  width: 1512px;
+height: 847.06px;
+top: 91px;
+gap: 0px;
+opacity: 0px;
+background-image: url(images/black-and-white-of-construction-sites-with-several-cranes-silhouette-concept-free-photo\ 1.png);
+background-size: cover;
+/* z-index: -1; */
+}
+
+/* text inside banner container */
+
+
+/* text1 */
+.text1{
+  /* border: 2px solid #FF792D; */
+  width: 290px;
+height: 37px;
+top: 373px;
+left: 82px;
+gap: 0px;
+opacity: 0px;
+padding:282px 1140px 35px 82px   ;
+
+}
+.stext1{
+  font-family: Montserrat;
+font-size: 30px;
+font-weight: 600;
+line-height: 36.57px;
+letter-spacing: 0.04em;
+text-align: left;
+color: #57B14B;
+}
+
+/* text2 */
+.text2{
+  /* border: 2px solid red; */
+  width: 1021px;
+height: 321px;
+top: 445px;
+left: 87px;
+gap: 0px;
+opacity: 0px;
+padding:0px 407px 35px 87px ;
+color: #FFFFFF;
+
+
+  
+
+}
+.stext2{
+  font-family: Montserrat;
+font-size: 88px;
+font-weight: 800;
+line-height: 107.27px;
+letter-spacing: 0.04em;
+text-align: left;
+  /* text-shadow: 2px 2px #00000040; */
+  text-shadow: 4.54px 4.54px  #00000040;
+
+  /* text-shadow: 0px 4.54px 4.54px 0px rgba(224, 20, 20, 0.25); */
+
+
+
+}
+.mtext3{
+  margin: 0px 1149px 85.14px 87px ;
+
+}
+.text3{
+  width: 275.83px;
+height:51.92px;
+/* top: 801px;
+left: 87px; */
+/* padding: 10.96px 21.92px 10.96px 21.92px; */
+gap: 10.96px;
+border-radius: 54.79px ;
+/* border: 2.19px ; */
+opacity: 0px;
+ border: 2.19px solid #57B14B;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.stext3{
+  font-family: Manrope;
+font-size: 22.06px;
+font-weight: 700;
+line-height: 30.13px;
+letter-spacing: 0.04em;
+text-align: left;
+color: #FFFFFF;
+text-align: center;
+}
